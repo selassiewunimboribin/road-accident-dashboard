@@ -353,7 +353,7 @@ elif section == "Outcomes by Cause":
 st.markdown(
     f"""
     <div class="footer">
-        <p>Created for portfolio showcase | Powered by Streamlit & Plotly</p>
+        <p>Created for portfolio showcase | biult by Sammdetech.com</p>
     </div>
     """,
     unsafe_allow_html=True
